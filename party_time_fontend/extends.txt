@@ -1,0 +1,4 @@
+- As Festas aparecerem só para a pessoa que cadastrou
+- Painel administrativo para criação, edição, visualização e exclusão dos serviços
+- Mudar o tema, usar novas cores, mudar fonte e etc.
+- Mudar o sistema de upload de imagem
