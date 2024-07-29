@@ -1,0 +1,51 @@
+.party h1,
+.party h3,
+.party p {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.actions-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.party .description {
+  max-width: 50dvw;
+  text-align: justify;
+  font-size: 1.1rem;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  padding: 0.8rem;
+  border: 2px dashed #3c3c3c;
+  border-radius: 10px;
+}
+
+.party .btn-secondary {
+  max-width: initial;
+}
+
+.party .services-container {
+  justify-content: center;
+  gap: 3rem;
+}
+
+.party .services-container .service {
+  background-color: #dbdbdb;
+  padding: 1rem;
+  border-radius: 10px;
+  max-width: 350px;
+}
+
+.party .services-container .service img {
+  width: 250px;
+  height: 250px;
+  object-position: top center;
+}
+
+.party .services-container .service p {
+  font-size: 1.1rem;
+}
